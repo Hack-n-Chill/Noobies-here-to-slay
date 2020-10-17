@@ -1,20 +1,33 @@
-# React Chat Application
+# The Reader's Cafe
 
-This is a simple chat application.
+![The Reader's Cafe](logo.png)
+WHY READ ALONE?
 
+A fun chat application for book lovers.
 
-## Client
+## Inspiration
 
-Client folder is utilizing create-react-ap and socket.io-client. You must use Yarn Start to load the application.
+The need to encourage people to read books by making it a fun and interesting thing to do amidst today’s busy lifestyle inspired us to come up with this idea as people nowadays feel it to be a bit boring thing to do.
 
-![React Chat Application Join Page](./client/image/join.png)
+## Tech Stack used:
 
-## Server
+MERN Stack
+-MongoDB, Express, ReactJS, NodeJS
 
-The server is powered by Nodejs and Express. To run the server, you will need to use NPM Start. For fast real-time chat messages, the chat application is running under Socket.io. 
+## Implementation
 
-Server has been deployed under Heroku. 
+1. A new user will have to signup first to use the features of this application. An existing user will login.
 
-## Thank You
+2. After signing up the user will be taken to a page where he/she will be shown a list of genres like mystery, fantasy etc. and the user will be able to select his favourite ones.
 
-There are more features to be added, so stay tuned! Please feel free to reach out for any questions!
+3. The user will be shown existing chat rooms under the genres that he selected. He can join any chat room to chat or he can also create a new chat room.
+
+This will make reading books a little fun activity. People will enjoy reading books just the way they enjoy TV series etc.
+This is the main idea.
+We have built the login/signup page, the chat application using Socket.io,NodeJS and ReactJS, and the demo landing page of the application.
+We have not been able to complete this product within the given time limit but we tried to give our best and we will surely come up with this whole product as we are going to continue working on it.
+
+## Contributors
+
+1. Shree Barua
+2. Gargi Ghosal
