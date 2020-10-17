@@ -1,6 +1,6 @@
 # The Reader's Cafe
 
-![The Reader's Cafe](<a href="url"><img src="logo.png" align="left" height="400" width="400" ></a>)
+![The Reader's Cafe](logo.png)
 WHY READ ALONE?
 
 A fun chat application for book lovers.
