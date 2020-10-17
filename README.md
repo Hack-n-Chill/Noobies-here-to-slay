@@ -8,7 +8,7 @@ A fun chat application for book lovers.
 
 ## Inspiration
 
-The need to encourage people to read books by making it a fun and interesting thing to do amidst today’s busy lifestyle inspired us to come up with this idea as people nowadays feel it to be a bit boring thing to do.
+The need to encourage people to read books by making it a fun and interesting thing to do amidst today’s busy lifestyle inspired us to come up with this idea as people nowadays find it to be a bit boring thing to do on weekends :)
 
 ## Tech Stack used:
 
